@@ -9,3 +9,28 @@ p{
     width: 450px;
     font-style: 32px;
 }
+
+/* valls@VallLeneNunes MINGW64 ~/OneDrive/Desktop/.vscode (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/valls/OneDrive/Desktop/.vscode/.git/
+
+valls@VallLeneNunes MINGW64 ~/OneDrive/Desktop/.vscode (master)
+$ git add .
+
+valls@VallLeneNunes MINGW64 ~/OneDrive/Desktop/.vscode (master)
+$ git commit -m"meu primeiro site"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+valls@VallLeneNunes MINGW64 ~/OneDrive/Desktop/.vscode (master)
+$ git push
+Everything up-to-date
+
+valls@VallLeneNunes MINGW64 ~/OneDrive/Desktop/.vscode (master)
+$ git pull
+Already up to date.
+
+valls@VallLeneNunes MINGW64 ~/OneDrive/Desktop/.vscode (master)
+$  */
